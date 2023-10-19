@@ -74,8 +74,6 @@ public class FrontController extends HttpServlet {
 
         switch(boton){
             case "Crear":
-                request.getRequestDispatcher("JSP/Crear.jsp").forward(request, response);
-                break;
             case "Modificar":
                 request.getRequestDispatcher("JSP/Crear.jsp").forward(request, response);
                 break;

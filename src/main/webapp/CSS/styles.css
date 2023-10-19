@@ -11,7 +11,7 @@
 }
 
 body {
-    background: url("./bg.png");
+    background-color: #000;
     background-size: cover;
     backdrop-filter: blur(5px);
     height: 100vh;

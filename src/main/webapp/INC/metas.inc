@@ -2,7 +2,7 @@
     <!-- Define la codificación de caracteres -->
     <meta charset="UTF-8">
     <!-- Define el autor del documento -->
-    <meta name="author" content="xxxx">
+    <meta name="author" content="Pedro">
     <!-- Define el programa con el que se ha generado el documento -->
     <meta name="generator" content="NetBeans 18">
     <!-- Define el copyright del documento -->
@@ -10,6 +10,6 @@
     <!-- Define el comportamiento de los buscadores -->
     <meta name="robots" content="index, follow">
     <!-- Define las palabras claves del contenido del documento -->
-    <meta name="keywords" content="Calculadora">
+    <meta name="keywords" content="GestorSesiones">
     <!-- Define una breve descripción del sitio -->
-    <meta name="description" content="Calculadora en MVC">
+    <meta name="description" content="Gestor de Sesiones Simple">
